@@ -1,0 +1,15 @@
+{
+  "name": "rescript-test-on-windows-and-wsl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "res:start": "rescript build -w"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rescript": "^10.1.4"
+  }
+}
